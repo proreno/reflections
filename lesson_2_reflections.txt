@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 For creation of .git folder which contain all data needed for version control
 Second change to file after first add, and later commit
+
+Third change
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
