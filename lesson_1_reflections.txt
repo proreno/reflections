@@ -18,3 +18,5 @@ Awesome. Now I can try more without many undos
 Now that you have your workspace set up, what do you want to try using Git for?
 
 This is change for initial commit
+
+Second change
